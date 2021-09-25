@@ -1,16 +1,22 @@
-### Hi there 👋
-
-<!--
-**firestarter2501/firestarter2501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# kishi / firestarter2501
+## Who are you?
+I'm a student studying physics in japan.  
+But actually I'm heavy user of "Unix" and often use some server-side technologies to build something for myself.
+## Interests
+- Physics
+    - High energy physics experiment
+        - especially ILC Detector's mechanism
+- Computer
+    - Low-layer software & hardware
+    - Network security
+    - Interactive media
+        - such like Ars Electronica...
+- Geography
+    - Climatology
+    - Ethnology
+## Links
+Twitter: [kishi](https://twitter.com/firestarter2501)  
+AtCoder: [firestarter2501](https://atcoder.jp/users/firestarter2501)  
+Steam: [firestarter2501](https://steamcommunity.com/id/firestarter2501)  
+VRChat: [firestarter2501](https://vrchat.com/home/user/usr_e3ab4286-f56c-45e1-b261-ed4713f725d8)  
+SoundCloud: [firestarter2501](https://soundcloud.com/firestarter2501)
