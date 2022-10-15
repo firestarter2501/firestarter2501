@@ -5,7 +5,7 @@ But actually I often use some server-side technologies to build something for my
 ## Interests
 - Physics
     - High energy physics experiment
-        - especially X-Ray Detector's Monte-carlo simulation
+        - especially Gamma-Ray Detector's Monte-carlo simulation
 - Computer
     - Low-layer software & hardware
     - Network security
