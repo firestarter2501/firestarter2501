@@ -1,7 +1,6 @@
 # kishi / firestarter2501
 ## Who are you?
 I'm a student studying physics in japan.  
-But actually I often use some server-side technologies to build something for myself.
 ## Interests
 - Physics
     - High energy physics experiment
