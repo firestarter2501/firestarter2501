@@ -1,16 +1,4 @@
 # kishi / firestarter2501
-## Who are you?
-I'm a student studying physics in japan.  
-## Interests
-- Physics
-    - High energy physics experiment
-- Computer
-    - Low-layer software & hardware
-    - Network security
-    - Interactive media
-- Geography
-    - Climatology
-    - Ethnology
 ## Links
 Twitter: [kishi](https://twitter.com/firestarter2501)  
 Misskey: [kishi](https://misskey.io/@firestarter2501)   
